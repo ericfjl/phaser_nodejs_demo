@@ -1,0 +1,16 @@
+{
+  "name": "game_phaser",
+  "version": "1.0.0",
+  "description": "game multiplayer",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "Edu",
+  "license": "ISC",
+  "dependencies": {
+    "@types/jquery": "^3.3.5",
+    "express": "^4.16.3",
+    "socket.io": "^2.1.1"
+  }
+}
