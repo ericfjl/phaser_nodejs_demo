@@ -23,11 +23,6 @@ Descargar desde Git
 ```
 
 Ingresar: http://localhost:8888/
-  
-Deploy heroku
--------------
-
-  [Puedes probar el juego aquí](https://game-space-war.herokuapp.com/)
  
 Creditos
 --------
